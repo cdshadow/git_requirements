@@ -1,7 +1,1 @@
-streamlit 
-pandas 
-matplotlib 
-seaborn 
-pillow 
-plotly 
-geopandas 
+streamlit  pandas  matplotlib  seaborn  pillow  plotly  geopandas 
